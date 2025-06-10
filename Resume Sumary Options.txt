@@ -1,0 +1,16 @@
+
+Option 1 
+
+"Survey Engineer with North Sea offshore experience installing, maintaining and operating GNSS/USBL positioning systems, specializing in ROV positioning and subsea acoustic systems. Manages vessel mobilisation, equipment calibration, and preventive maintenance programs alongside technical documentation requirements. Optimizes positioning system performance and resolves equipment failures during live operations through real-time troubleshooting. Mechanical engineering background supports equipment modification and system diagnostics. Programming capabilities enhance data processing workflows. Authorized to work in UK, Canada and Australia."
+
+Option 2
+
+Survey Engineer with proven offshore experience installing, maintaining and operating advanced positioning systems across North Sea projects, with specialized expertise in ROV positioning and subsea acoustic systems. Demonstrated expertise in vessel mobilisation, equipment calibration, and technical documentation management. Adept at optimizing positioning system performance and delivering rapid troubleshooting solutions during critical operations. Mechanical engineering background enabling comprehensive understanding of integrated survey systems and subsea operations. Adaptable professional combining technical knowledge with practical problem-solving skills, ready to apply proven skills to Asia-Pacific projects.
+
+Option 3
+
+"Survey Engineer with North Sea offshore experience installing, maintaining and operating GNSS/USBL positioning systems, ROV positioning, and subsea acoustic operations across multiple projects. Executes vessel mobilisation, equipment calibration, and technical documentation alongside preventive maintenance programs. Delivers positioning system optimization and real-time troubleshooting during live offshore operations. Mechanical engineering background enables equipment diagnostics and integrated survey system modifications. Develops diagnostic software for equipment operations. Authorized to work in UK, Canada, and Australia."
+
+
+Option 4 
+"Survey Engineer with two years operating GNSS/USBL positioning systems across North Sea offshore projects, specializing in ROV positioning and subsea acoustic operations. Manages vessel mobilisation, equipment calibration, and technical documentation while executing real-time troubleshooting during critical operations. Mechanical engineering background (BSc Aberdeen) supports equipment diagnostics and system modifications. Programming skills in Python enhance data processing workflows. Successfully completed operations for Prosafe, Noble Resilient, and Harbour Energy, maintaining positioning tolerances in challenging conditions. Authorized to work in UK, Canada, and Australia - prepared for Asia-Pacific deployment."
